@@ -1,1 +1,1 @@
-# Some script for single cell RNA-seq data analysis 
+# Some scripts for single cell RNA-seq data analysis 
